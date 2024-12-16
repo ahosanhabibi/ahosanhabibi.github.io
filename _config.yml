@@ -21,12 +21,12 @@ repository               : #"academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/1617000343312.jpeg"
+  avatar           : "1617000343312.jpeg"
   name             : "Ahosan Habib"
   pronouns         : # example: "she/her"  
   bio              : "Research Enthusiast"
   location         : "Dhaka, Bangladesh"
-  employer         : "PowerChina Fujian Engineering Co., Ltd." <br>
+  employer         : "PowerChina Fujian Engineering Co., Ltd."
   uri              : # URL
   email            : "ahosanhabibkuet@gmail.com" 
 
