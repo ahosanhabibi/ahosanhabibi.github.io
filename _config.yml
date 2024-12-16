@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ahosan Habib"
+title                    : "Bio"
 title_separator          : "-"
 name                     : &name "Ahosan Habib"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : #"academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "1617000343312.jpeg"
-  name             : "Homepage"
+  name             : "Ahosan Habib"
   pronouns         : # example: "she/her"  
   bio              : "Research Enthusiast"
   location         : "Dhaka, Bangladesh"
