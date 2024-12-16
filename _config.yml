@@ -22,11 +22,11 @@ repository               : #"academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "1617000343312.jpeg"
-  name             : "Ahosan Habib"
+  name             : "Homepage"
   pronouns         : # example: "she/her"  
-  bio              : "Life Time Learner"
+  bio              : "Research Enthusiast"
   location         : "Dhaka, Bangladesh"
-  employer         : "PowerChina Fujian Engineering Co., Ltd."
+  employer         : "PowerChina Fujian Engineering Co., Ltd." <br>
   uri              : # URL
   email            : "ahosanhabibkuet@gmail.com" 
 
