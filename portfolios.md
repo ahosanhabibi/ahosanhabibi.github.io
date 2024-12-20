@@ -1,7 +1,7 @@
 
-<p style="text-align: center;">
-**Design and analysis of diverse steel and concrete structural framework**<br>
+<p style="text-align: center; font-weight: bold;">
+Design and analysis of diverse steel and concrete structural framework
 </p>
-![](images/1.png)
+![](images/1.png) <br>
 ![](images/2.png)
 
