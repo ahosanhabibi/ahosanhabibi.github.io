@@ -8,9 +8,6 @@ Here if I have been given a geodatabase of the area/place/object of my hometown 
 
 ![](images/map02.png)
 
-![](images/map03.png)
-
-
 <p style="text-align: center; font-weight: bold;">
 Design and analysis of diverse steel and concrete structural framework
 </p>
