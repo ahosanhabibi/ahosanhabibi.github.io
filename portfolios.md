@@ -2,6 +2,5 @@
   <img src="images/be-your-etab-and-sap2000-expert (1).jpg" alt="Image 1" style="width: 100%; border-radius: 5px;">
   <img src="images/be-your-etab-and-sap2000-expert (2).jpg" alt="Image 2" style="width: 100%; border-radius: 5px;">
   <img src="images/be-your-etab-and-sap2000-expert.jpg" alt="Image 3" style="width: 100%; border-radius: 5px;">
-  <img src="images/tj3sgzwyltkcizwdcw1l.mp4" alt="Image 4" style="width: 100%; border-radius: 5px;">
 </div>
 
