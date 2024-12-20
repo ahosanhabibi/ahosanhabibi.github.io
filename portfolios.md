@@ -4,3 +4,4 @@ Image segmentation is a core computer vision task that divides the image into se
 segmentation capabilities. Based on the level of information you need in your segmentation results, complexity of images and requirements for specific project will define which option works for you. In this report with sentinel 2 image, I am going to make a comparison between eCognition and arcgis pro and can see what differences it will make and give a better image object.
 </p>
 <img src='images/etabs1.jpg'>
+![](images/etabs1.jpg)
