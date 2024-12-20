@@ -18,9 +18,8 @@ Design and analysis of diverse steel and concrete structural framework
 Use ETABS and SAP2000
 </p>
 
-<video controls width="600">
-  <source src="e43bee65b1404158816a519bedd2dbf8.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://youtu.be/0LbLriL02sI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 
 
