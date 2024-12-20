@@ -12,7 +12,7 @@ locale                   : "en-US"
 title_separator          : "-"
 name                     : &name "Ahosan Habib"
 description              : &description "personal description"
-url                      : https://ahohabib.github.io/o/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://ahohabib.github.io/kur65dytv/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
 
