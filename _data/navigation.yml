@@ -12,7 +12,7 @@ main:
     url: /files/Europass_CV.pdf
     
   - title: "Portfolio"
-    url: /portfolios/
+    url: /portfolio/
 
   - title: "Projects"
     url: /projects/
