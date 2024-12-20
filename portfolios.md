@@ -2,6 +2,12 @@
 <p style="text-align: center; font-weight: bold;">
 Design and analysis of diverse steel and concrete structural framework
 </p>
-![](images/1.png) <br>
-![](images/2.png)
+![](images/etabs1.png)
+
+![](images/etabs2.png)
+
+
+<p style="text-align: center; font-weight: bold;">
+Design and analysis of diverse steel and concrete structural framework
+</p>
 
