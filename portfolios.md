@@ -1,7 +1,7 @@
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px;">
-  <img src="images/be-your-etab-and-sap2000-expert (1).jpg" alt="Image 1" style="width: 100%; border-radius: 5px;">
-  <img src="images/be-your-etab-and-sap2000-expert (2).jpg" alt="Image 2" style="width: 100%; border-radius: 5px;">
-  <img src="images/be-your-etab-and-sap2000-expert.jpg" alt="Image 3" style="width: 100%; border-radius: 5px;">
-</div>
+**Structural analysis, modelling, and design**<br>
+![](images/be-your-etab-and-sap2000-expert (1).jpg)
+<p style="text-align: center;">
+Used Etabs and Safe Design and analysis of diverse steel and concrete structural framework.
+</p>
 
 
