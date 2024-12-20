@@ -5,9 +5,17 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Home"
+    url: https://sanjidasuchi.github.io/
+  
   - title: "CV"
-    url: /files/Curricullum Vitae.pdf
+    url: /files/Europass_CV.pdf
     
-  - title: "Publications"
-    url: https://www.researchgate.net/profile/Ahosan-Habib-4
+  - title: "Portfolio"
+    url: /portfolios/
 
+  - title: "Projects"
+    url: /projects/
+    
+  - title: "Affiliations"
+    url: /affiliations/
