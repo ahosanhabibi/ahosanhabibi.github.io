@@ -26,11 +26,18 @@ Design and analysis of diverse steel and concrete structural framework
 Use ETABS and SAP2000
 </p>
 
-my-repo/
-├── portfolios.md
-├── images/
-│   ├── images/etabs2.png
-│   ├── images/etabs2.png
+<p style="text-align: center; font-weight: bold; color: blue; text-decoration: underline;">
+Transmission line route map and topographoc map preparation
+</p>
+![](images/Screenshot 2024-12-21 041840.png)
+
+![](images/Screenshot 2024-12-21 042001.png)
+<p style="text-align: center">
+Used RTK GNSS and total station to collect survey data
+</p>
+
+
+
 
 
 
