@@ -27,7 +27,7 @@ Use ETABS and SAP2000
 </p>
 
 <p style="text-align: center; font-weight: bold; color: blue; text-decoration: underline;">
-Transmission line route map and topographoc map preparation
+Transmission line route map and topographic map preparation
 </p>
 ![](images/mapg01.png)
 
