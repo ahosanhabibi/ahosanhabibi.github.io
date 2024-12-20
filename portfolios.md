@@ -26,10 +26,12 @@ Design and analysis of diverse steel and concrete structural framework
 Use ETABS and SAP2000
 </p>
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="images/etabs2.png">
-  <img src="images/etabs2.png">
-</div>
+my-repo/
+├── portfolios.md
+├── images/
+│   ├── images/etabs2.png
+│   ├── images/etabs2.png
+
 
 
 
