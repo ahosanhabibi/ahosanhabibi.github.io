@@ -29,9 +29,9 @@ Use ETABS and SAP2000
 <p style="text-align: center; font-weight: bold; color: blue; text-decoration: underline;">
 Transmission line route map and topographoc map preparation
 </p>
-![](images/Screenshot 2024-12-21 041840.png)
+![](images/mapg01.png)
 
-![](images/Screenshot 2024-12-21 042001.png)
+![](images/mapg02.png)
 <p style="text-align: center">
 Used RTK GNSS and total station to collect survey data
 </p>
