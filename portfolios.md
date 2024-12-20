@@ -16,15 +16,6 @@ Building 3D Modelling and rendering in Revit
 
 ![](images/elevation.png)
 
-<p style="text-align: center; font-weight: bold; color: blue; text-decoration: underline;">
-Design and analysis of diverse steel and concrete structural framework
-</p>
-![](images/etabs1.png)
-
-![](images/etabs2.png)
-<p style="text-align: center">
-Use ETABS and SAP2000
-</p>
 
 <p style="text-align: center; font-weight: bold; color: blue; text-decoration: underline;">
 Transmission line route map and topographic map preparation
@@ -34,6 +25,18 @@ Transmission line route map and topographic map preparation
 ![](images/mapg02.png)
 <p style="text-align: center">
 Used RTK GNSS and total station to collect survey data
+</p>
+
+
+
+<p style="text-align: center; font-weight: bold; color: blue; text-decoration: underline;">
+Design and analysis of diverse steel and concrete structural framework
+</p>
+![](images/etabs1.png)
+
+![](images/etabs2.png)
+<p style="text-align: center">
+Use ETABS and SAP2000
 </p>
 
 
