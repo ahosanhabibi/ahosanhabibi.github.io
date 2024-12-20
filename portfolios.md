@@ -8,6 +8,14 @@ Here if I have been given a geodatabase of the area/place/object of my hometown 
 
 ![](images/map02.png)
 
+
+<p style="text-align: center; font-weight: bold; color: blue; text-decoration: underline;">
+Building 3D Modelling and rendering in Revit
+</p>
+![](images/3d01.png)
+
+![](images/elevation.png)
+
 <p style="text-align: center; font-weight: bold; color: blue; text-decoration: underline;">
 Design and analysis of diverse steel and concrete structural framework
 </p>
@@ -18,12 +26,6 @@ Design and analysis of diverse steel and concrete structural framework
 Use ETABS and SAP2000
 </p>
 
-<p style="text-align: center; font-weight: bold; color: blue; text-decoration: underline;">
-Building 3D Modelling and rendering in Revit
-</p>
-![](images/3d01.png)
-
-![](images/elevation.png)
 
 
 
