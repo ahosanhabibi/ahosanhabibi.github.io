@@ -1,7 +1,12 @@
 **Structural analysis, modelling, and design**<br>
 
-| Image 1 | Image 2 |
-|---------|---------|
-| ![Image 1](/images/etabs1.jpg) | ![Image 2](/images/etabs1.jpg) |
+<div style="display: flex; gap: 10px;">
+  <img src="images/etabs1.jpg" alt="" style="width: 45%;">
+  <img src="images/etabs1.jpg" alt="" style="width: 45%;">
+</div>
+
+<p style="text-align: center;">
+Used Etabs and Safe to design and analysis of diverse steel and concrete structural framework.
+</p>
 
 
