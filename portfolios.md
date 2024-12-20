@@ -6,7 +6,7 @@ segmentation capabilities. Based on the level of information you need in your se
 ![](images/1.png)
 
 <div style="display: flex; gap: 10px;">
-  <img src="images/1.png" alt="Image 1" style="width: 45%;">
-  <img src="images/1.png" alt="Image 2" style="width: 45%;">
+![](images/1.png)
+![](images/1.png)
 </div>
 
