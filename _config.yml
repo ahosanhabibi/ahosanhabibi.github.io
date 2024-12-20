@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Bio"
+#title                    : "Bio"
 title_separator          : "-"
 name                     : &name "Ahosan Habib"
 description              : &description "personal description"
