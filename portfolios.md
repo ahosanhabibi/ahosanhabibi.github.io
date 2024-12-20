@@ -18,7 +18,14 @@ Design and analysis of diverse steel and concrete structural framework
 Use ETABS and SAP2000
 </p>
 
-<iframe width="560" height="315" src="https://youtu.be/0LbLriL02sI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p style="text-align: center; font-weight: bold; color: blue; text-decoration: underline;">
+Building 3D Modelling and rendering in Revit
+</p>
+![](images/3d01.png)
+
+![](images/elevation.png)
+
+
 
 
 
