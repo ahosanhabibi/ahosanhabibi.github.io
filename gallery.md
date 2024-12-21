@@ -69,6 +69,6 @@ Set up of Arduino for data collection
 </p>
 
 ![](images/image2_converted.png)
-<p style="text-align: center">
+<p style="text-align: left">
 Me with my undergraduate thesis experimental setup
 </p>
