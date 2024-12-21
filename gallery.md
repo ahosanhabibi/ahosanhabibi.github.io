@@ -68,7 +68,7 @@ Furnace set up to follow the standard fire curve for testing samples
 Set up of Arduino for data collection
 </p>
 
-![](images/Screenshot 2024-11-13 212948.jpg)
+![](images/image2_converted.png)
 <p style="text-align: center">
-Set up of Arduino for data collection
+Me with my undergraduate thesis experimental setup
 </p>
