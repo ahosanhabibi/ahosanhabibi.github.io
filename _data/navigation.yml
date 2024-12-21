@@ -14,8 +14,8 @@ main:
   - title: "Portfolio"
     url: /portfolios/
 
-  - title: "Achievments"
-    url: /projects/
+  - title: "Gallery"
+    url: /gallery/
     
   - title: "Extra-Curicullar"
-    url: /affiliations/
+    url: /extracurri/
