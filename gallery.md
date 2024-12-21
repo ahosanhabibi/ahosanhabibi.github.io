@@ -12,7 +12,7 @@ Inauguration of Piling work for 230kV Barapukuria-Rangpur line
 Rivercrossing anchor tower foundation work supervision
 </p>
 
-![](images/1619037001744.jpg)
+![](images/image1_converted.png)
 <p style="text-align: center">
 Soil Test Work Supervison
 </p>
