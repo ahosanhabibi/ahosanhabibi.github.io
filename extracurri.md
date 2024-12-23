@@ -1,7 +1,5 @@
-<p style="text-align: center">
-Champion Team of Intra Department Football Team
+<p style="text-align: center;">
+I like to Play Football, Cricket, Badminton and have some achievements in these sports too
 </p>
-
-![](images/Image_20241116233958.jpg)
-
+![](images/sports.png)
 
